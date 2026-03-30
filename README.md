@@ -16,7 +16,7 @@ Optional:
 -  `pkg-config sdl3`
 -  `pkg-config --libs --cflags sdl3`
 
-findout all the header files references by program
+Findout all the header files references by program
 `g++ -H main.cpp`
 
 ## Compilation of SDL from git repository
